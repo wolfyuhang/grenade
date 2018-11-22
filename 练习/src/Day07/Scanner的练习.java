@@ -1,4 +1,4 @@
-package Day07;
+﻿package Day07;
 
 import java.util.Scanner;
 
@@ -8,6 +8,7 @@ public class Scanner的练习 {
 //        Scanner sc = new Scanner(System.in);
 //        test(sc);
     //Day07
+//Day07//Day07//Day07//Day07//Day07
     test(new Scanner(System.in));
     }
     public static void test(Scanner sc){
