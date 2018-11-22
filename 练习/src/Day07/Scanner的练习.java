@@ -8,9 +8,9 @@ public class Scanner的练习 {
 //        Scanner sc = new Scanner(System.in);
 //        test(sc);
     //Day07
-//Day07
-//Day07
-//Day07修改
+
+//Day07//Day07//Day07//Day07//Day07
+>>>>>>> ca0326d72eebea645cd317373c60a366751f4896
     test(new Scanner(System.in));
     }
     public static void test(Scanner sc){
