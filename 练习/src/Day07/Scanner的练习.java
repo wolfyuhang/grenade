@@ -7,7 +7,7 @@ public class Scanner的练习 {
     //调用方法
 //        Scanner sc = new Scanner(System.in);
 //        test(sc);
-    //Day07
+    //Day07//Day07
 //Day07//Day07//Day07//Day07//Day07
     test(new Scanner(System.in));
     }
